@@ -1,0 +1,15 @@
+C:\Users\nguye\OneDrive\Documents\MIS 221\mis-221-lab-4-jtnguyen3\obj\Debug\net8.0\mis-221-lab-4-jtnguyen3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nguye\OneDrive\Documents\MIS 221\mis-221-lab-4-jtnguyen3\obj\Debug\net8.0\mis-221-lab-4-jtnguyen3.AssemblyInfoInputs.cache
+C:\Users\nguye\OneDrive\Documents\MIS 221\mis-221-lab-4-jtnguyen3\obj\Debug\net8.0\mis-221-lab-4-jtnguyen3.AssemblyInfo.cs
+C:\Users\nguye\OneDrive\Documents\MIS 221\mis-221-lab-4-jtnguyen3\obj\Debug\net8.0\mis-221-lab-4-jtnguyen3.csproj.CoreCompileInputs.cache
+C:\Users\nguye\OneDrive\Documents\MIS 221\mis-221-lab-4-jtnguyen3\obj\Debug\net8.0\mis-221-lab-4-jtnguyen3.sourcelink.json
+C:\Users\nguye\OneDrive\Documents\MIS 221\mis-221-lab-4-jtnguyen3\bin\Debug\net8.0\mis-221-lab-4-jtnguyen3.exe
+C:\Users\nguye\OneDrive\Documents\MIS 221\mis-221-lab-4-jtnguyen3\bin\Debug\net8.0\mis-221-lab-4-jtnguyen3.deps.json
+C:\Users\nguye\OneDrive\Documents\MIS 221\mis-221-lab-4-jtnguyen3\bin\Debug\net8.0\mis-221-lab-4-jtnguyen3.runtimeconfig.json
+C:\Users\nguye\OneDrive\Documents\MIS 221\mis-221-lab-4-jtnguyen3\bin\Debug\net8.0\mis-221-lab-4-jtnguyen3.dll
+C:\Users\nguye\OneDrive\Documents\MIS 221\mis-221-lab-4-jtnguyen3\bin\Debug\net8.0\mis-221-lab-4-jtnguyen3.pdb
+C:\Users\nguye\OneDrive\Documents\MIS 221\mis-221-lab-4-jtnguyen3\obj\Debug\net8.0\mis-221-lab-4-jtnguyen3.dll
+C:\Users\nguye\OneDrive\Documents\MIS 221\mis-221-lab-4-jtnguyen3\obj\Debug\net8.0\refint\mis-221-lab-4-jtnguyen3.dll
+C:\Users\nguye\OneDrive\Documents\MIS 221\mis-221-lab-4-jtnguyen3\obj\Debug\net8.0\mis-221-lab-4-jtnguyen3.pdb
+C:\Users\nguye\OneDrive\Documents\MIS 221\mis-221-lab-4-jtnguyen3\obj\Debug\net8.0\mis-221-lab-4-jtnguyen3.genruntimeconfig.cache
+C:\Users\nguye\OneDrive\Documents\MIS 221\mis-221-lab-4-jtnguyen3\obj\Debug\net8.0\ref\mis-221-lab-4-jtnguyen3.dll
